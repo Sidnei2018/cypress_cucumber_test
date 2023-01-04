@@ -100,3 +100,4 @@ O próximo passo é abrir o terminal de sua IDE e digitar o comando para iniciar
 ![testeautomatico](https://user-images.githubusercontent.com/28484134/210569669-bbcc03ef-00e2-4d70-8432-aec107622897.jpg)<br>
 
 Nosso teste passou com sucesso! 🚀<br><br>
+
