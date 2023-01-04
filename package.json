@@ -1,0 +1,16 @@
+{
+    "scripts": {
+        "test": "cypress run --browser edge"
+    },
+    "cypress-cucumber-preprocessor": {
+        "step_definitions": "cypress/support/steps"
+    },
+    "dependencies": {
+        "cucumber": "^6.0.7"
+    },
+    "devDependencies": {
+        "cypress": "^9.7.0",
+        "cypress-cucumber-preprocessor": "^4.3.1",
+        "cypress-xpath": "^2.0.1"
+    }
+}
